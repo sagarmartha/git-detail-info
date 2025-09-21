@@ -1,3 +1,3 @@
 # git-detail-info
-full tut
+full tut. 
 Author- Sagar
